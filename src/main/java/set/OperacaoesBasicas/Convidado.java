@@ -21,7 +21,7 @@ public class Convidado {
     public String toString() {
         return "Convidado{" +
                 "nome='" + nome + '\'' +
-                ", condigoConvite=" + condigoConvite +
+                ", condigoConvite=" + codigoConvite +
                 '}';
     }
 }
